@@ -1,0 +1,18 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/postherpetic-trigeminal-neuralgia---primary.py
+inputModule3:
+  class: File
+  path: python/neuralgia---primary.py
+inputModule4:
+  class: File
+  path: python/trigeminal-neuralgia---primary.py
+inputModule5:
+  class: File
+  path: python/output-cases.py
